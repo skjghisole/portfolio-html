@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server"
+  },
+  "author": "Stephen Karl Jeoffrey Hisole",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
